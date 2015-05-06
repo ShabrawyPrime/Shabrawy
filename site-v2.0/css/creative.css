@@ -504,3 +504,10 @@ body {
     font-size: 20px;
     line-height: 45px;
 }
+
+.right {
+
+    position: absolute;
+    right: 40px;
+    width: 271px;
+}
