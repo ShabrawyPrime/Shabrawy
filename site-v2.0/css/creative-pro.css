@@ -469,6 +469,10 @@ body {
 
 }
 
+.right {
+    vertical-align: right;
+}
+
 .footer-mod{
     /*height: 50px;*/
     padding-top: 5px;
